@@ -1,4 +1,4 @@
-start_time,bat_landing_to_food_min,habit,rat_period_start,rat_period_end,min_after_rat_arrival,risk,reward,month,sunset_time,min_after_sunset,season,Date,chronology_check
+start_time,bat_landing_to_food_min,habit,rat_period_start,rat_period_end,min_after_rat_arrival,risk,reward,month,sunset_time,min_after_sunset,season,date,chronology_check
 2017-12-26 20:57:00,0.016666666666666666,Unknown,2017-12-26 20:53:00,2017-12-26 20:58:00,3.9833333333333334,0,0,0,2017-12-26 16:43:00,254.91666665999998,0,2017-12-26,True
 2017-12-26 20:57:00,0.08333333333333333,Unknown,2017-12-26 20:53:00,2017-12-26 20:58:00,3.316666666666667,0,0,0,2017-12-26 16:43:00,254.25,0,2017-12-26,True
 2017-12-26 21:24:00,0.05,fast,2017-12-26 21:22:00,2017-12-26 21:27:00,2.0166666666666666,0,1,0,2017-12-26 16:43:00,281.61666666,0,2017-12-26,True
