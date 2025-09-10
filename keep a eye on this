@@ -1,6 +1,0 @@
-Based on what I can see, your data will likely score around 60-70% on data quality, with several critical issues that need addressing:
-
-Negative time values need investigation
-Unit conversions may need correction
-Some habit categories could be better standardized
-Datetime handling needs improvement
